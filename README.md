@@ -1,5 +1,6 @@
 # discordformbot
 googleフォームに記入するとdiscordにポストされるGASボット
+GASスクリプトはフォームに記述してください。
 
 ![image](https://user-images.githubusercontent.com/1459353/175430401-8944f3a6-2dbc-47bb-86f1-76bd57cc830e.png)
 
