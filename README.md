@@ -1,0 +1,2 @@
+# discordformbot
+googleフォームに記入するとdiscordにポストされるGASボット
